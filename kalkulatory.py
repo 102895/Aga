@@ -1,4 +1,8 @@
 def dodawanie(a,b):
 	wynik= a+b
-
-dodawanie() 
+	return wynik
+zmienna1=int(input())
+zmienna2=int(input()
+	
+print(dodawanie(zmienna1, zmienna2))
+ 
